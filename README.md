@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-analysis on kickstarter data to uncover trends in theatre funding
+##Analysis on kickstarter data to uncover trends in theatre funding
 
 -about 61% of plays in the US meet their funding goals
 -The average amount of sucessful campaign is $5,000 
