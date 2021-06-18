@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+The purpose of the project was to find the best time to launch a Kickstarter campaign, and discover what monetary goal was most likely to be successfully funded. 
 
 ## Analysis and Challenges
 
