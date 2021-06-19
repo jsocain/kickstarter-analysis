@@ -8,7 +8,7 @@ The purpose of the project was to find the best time to launch a Kickstarter cam
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[Outcomes Based on Luanch Date Chart]
+[Outcomes Based on Luanch Date Chart](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
