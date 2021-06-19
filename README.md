@@ -8,7 +8,9 @@ The purpose of the project was to find the best time to launch a Kickstarter cam
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[Outcomes Based on Launch Date Chart](resources/Theater_Outcomes_vs_Launch.png)
+
+Using Kickstarter campaign data, Excel, pivot tables, and line graphs, I created this [Outcomes Based on Launch Date Chart](resources/Theater_Outcomes_vs_Launch.png) to show historically what months the most successful campaigns were launched.
+
 ### Analysis of Outcomes Based on Goals
 [Outcomes Based on Goals Chart](resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
